@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./4738086_0012.png"; bbox 0 0 1844 2859; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 755 1409 827">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 755 1409 827">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 755 1409 827; baseline 0.008 -8"><span class='ocrx_word' id='word_1_1' title='bbox 355 755 729 823; x_wconf 84' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 794 757 1409 827; x_wconf 75' lang='lat' dir='ltr'>GUILELMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 1009 1337 1079">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 1009 1337 1079">
+     <span class='ocr_line' id='line_1_2' title="bbox 413 1009 1337 1079; baseline 0.006 -6"><span class='ocrx_word' id='word_1_3' title='bbox 413 1009 830 1075; x_wconf 82' lang='lat' dir='ltr'><strong>PATRUO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 884 1011 1337 1079; x_wconf 78' lang='lat' dir='ltr'>IOSEPHO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 517 1159 1260 1306">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 517 1159 1260 1306">
+     <span class='ocr_line' id='line_1_3' title="bbox 766 1159 1002 1194; baseline 0.008 -2"><span class='ocrx_word' id='word_1_5' title='bbox 766 1159 1002 1194; x_wconf 76' lang='lat' dir='ltr'>CARISSIMIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 517 1263 1260 1306; baseline 0.005 -4"><span class='ocrx_word' id='word_1_6' title='bbox 517 1265 668 1303; x_wconf 73' lang='lat' dir='ltr'><strong>meon</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 694 1266 967 1305; x_wconf 73' lang='lat' dir='ltr'><strong>swmomm</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 993 1263 1242 1306; x_wconf 69' lang='lat' dir='ltr'><strong>lemns</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1256 1278 1260 1281; x_wconf 74' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 641 1379 1119 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 641 1379 1119 1422">
+     <span class='ocr_line' id='line_1_5' title="bbox 641 1379 1119 1422; baseline 0.006 -10"><span class='ocrx_word' id='word_1_10' title='bbox 641 1379 713 1413; x_wconf 79' lang='grc' dir='ltr'><strong>ΡΙο</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 734 1379 958 1422; x_wconf 79' lang='lat' dir='ltr'><strong>GRATOQUE</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 979 1382 1119 1415; x_wconf 73' lang='lat' dir='ltr'><strong>Amo</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1075 2467 1368 2518">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1075 2467 1368 2518">
+     <span class='ocr_line' id='line_1_6' title="bbox 1075 2467 1368 2518; baseline 0.003 -1"><span class='ocrx_word' id='word_1_13' title='bbox 1075 2467 1368 2518; x_wconf 67' lang='lat' dir='ltr'><strong>SCMPTQR.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
